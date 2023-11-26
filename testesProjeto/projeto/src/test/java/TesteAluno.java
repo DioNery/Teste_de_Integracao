@@ -6,6 +6,8 @@ import static org.mockito.Mockito.spy;
 import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
 
+//importando classes e métodos estáticos 
+
 import org.junit.Test;
 
 import com.example.Aluno;
